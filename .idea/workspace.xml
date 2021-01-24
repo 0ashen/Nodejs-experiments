@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="615e318d-eaac-4845-ac6a-24fc2b2ea73f" name="Default Changelist" comment="" />
+    <list default="true" id="615e318d-eaac-4845-ac6a-24fc2b2ea73f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/1.nodejs-cluster/cluster.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.empty-server/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1.nodejs-cluster/worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.empty-server/load.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1.nodejs-cluster/load.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="45zbn34c" />
   </component>
   <component name="ProjectId" id="1nWr5E8OwjR2Np1b5A8ePu5eOAh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -35,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611516502608</updated>
-      <workItem from="1611516503698" duration="2057000" />
+      <workItem from="1611516503698" duration="3331000" />
     </task>
     <servers />
   </component>
